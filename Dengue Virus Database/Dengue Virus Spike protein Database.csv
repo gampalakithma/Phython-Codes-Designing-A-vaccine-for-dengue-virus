@@ -1,0 +1,31 @@
+Dengue Virus Spike Proein Structure Database,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+NO,PDB ID,Species,Sequence ID,Collected  Region,R value,Resolution,Antibody,Released data,Method
+1,3J42,Dengue virus 2,3J42_1,Envelope protein,,21.0ÿ,ÿ2H2,2013-01-13ÿ,ELECTRON MICROSCOPY 21 
+2,3C5X,Dengue virus 2,3C5X_1,Envelope protein,0.256ÿ,2.20 ,,2008-04-08ÿ,X-RAY DIFFRACTION
+3,4FFZ,Dengue virus 1,4FFZ_1,Envelope protein,0.237ÿ,3.80 ,E111,2012-06-27ÿ,X-RAY DIFFRACTION
+4,2R6P,Dengue virus 2,2R6P_1,Envelope protein,,24.0ÿ,1A1D-2,2007-12-25ÿ,ELECTRON MICROSCOPY
+5,3VTT,Dengue virus 3,3VTT_1,Envelope protein,0.208ÿ,1.70 ,,2012-12-26ÿ,X-RAY DIFFRACTION
+6,4UTA,Dengue virus 2,4UTA_1,Envelope protein,0.214ÿ,3.00 ,EDE1 C8,2015-01-28ÿ,ELECTRON MICROSCOPY
+7,4UTB,Dengue virus 2,4UTB_1,Envelope protein,0.231ÿ,3.85 ,EDE2,2015-01-28ÿ,ELECTRON MICROSCOPY
+8,4UT6,Dengue virus 2,4UT6_1,Envelope protein,0.214ÿ,3.20 ,EDE2 B7,2015-01-28ÿ,X-RAY DIFFRACTION
+9,4UT9,Dengue virus 2,4UT9_1,Envelope protein,0.200ÿ,3.20 ,EDE1 C10,2015-01-28ÿ,X-RAY DIFFRACTION
+10,4UTC,Dengue virus 2,4UTC_1,Envelope protein,0.214ÿ,3.08 ,,2015-01-28ÿ,X-RAY DIFFRACTION
+11,1TG8,Dengue virus 2,1TG8_1,Envelope protein,0.264ÿ,2.61 ,,2004-09-28ÿ,X-RAY DIFFRACTION
+13,3C6E,Dengue virus 2,3C6E_1,Envelope protein,ÿ0.254,2.60 ,,ÿ2008-04-08ÿ,X-RAY DIFFRACTION
+14,1OAN,Dengue virus 2,1OAN_1,Envelope protein,0.261,2.75 ,,2003-05-16ÿ,X-RAY DIFFRACTION
+15,1OK8,Dengue virus 2,1OK8_1,Envelope protein,0.222ÿ,ÿ2.00 ,,2004-01-29ÿ,X-RAY DIFFRACTION
+16,1OKE,Dengue virus 2,1OKE_1,Envelope protein,ÿ0.263ÿ,2.40 ,,2003-07-24ÿ,X-RAY DIFFRACTION
+17,5N09,Dengue virus 2,5N09_1,Envelope protein,0.306ÿ,3.90 ,EDE2 A11,2017-06-07ÿ,X-RAY DIFFRACTION
+18,1UZG,Dengue virus 3,1UZG_1,Envelope protein,0.286,3.50 ,,2005-02-15ÿ,X-RAY DIFFRACTION
+19,3WE1,Dengue virus 4,3WE1_1,Envelope protein,0.267ÿ,2.28 ,,2014-01-22ÿ,X-RAY DIFFRACTION
+20,5B1C,Dengue virus 4,5B1C_1,Envelope protein,0.217,2.00 ,,2016-02-04ÿ,X-RAY DIFFRACTION
+21,4X42,Dengue virus 4,4X42_1,Envelope protein,0.236ÿ,2.78 ,,2015-09-09ÿ,X-RAY DIFFRACTION
+22,4C2I,Dengue virus 1,4C2I_1,Envelope protein,,6.00ÿ,ÿ1F4,2014-01-29ÿ,ELECTRON MICROSCOPY
+23,7DWT,Dengue virus 1,7DWT_1,Envelope protein,,19.0ÿ,ÿ1C19,2021-02-17ÿ,ÿELECTRON MICROSCOPY
+24,7DWU,Dengue virus 1,7DWU_1,Envelope protein,,19.0ÿ,1C19 ,2021-02-17ÿ,ELECTRON MICROSCOPY
+25,3J05,Dengue virus 1,3J05_1,Envelope protein,,7.00ÿ,,2012-07-04ÿ,ELECTRON MICROSCOPY
+26,4CAU,Dengue virus 1,4CAU_1,Envelope protein,,7.00ÿ,2 HMAB 14C10 FAB,2013-10-16ÿ,ELECTRON MICROSCOPY
+27,4CBF,Dengue virus 2,4CBF_1,Envelope protein,,4.10ÿ,,2013-11-06ÿ,ELECTRON MICROSCOPY
+28,3J6U,Dengue virus 3,3J6U_1,Envelope protein,0.214ÿ,9.00ÿ,ÿ5J7,2015-03-04ÿ,ELECTRON MICROSCOPY
